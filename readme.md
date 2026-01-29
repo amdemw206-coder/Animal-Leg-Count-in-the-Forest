@@ -7,3 +7,5 @@
 - #### How does the function work? 
     - Using iterative for loops and if conditions, the input array of animals gets scanned through to check how many elements in the array have four legged animals. The function checkLegs() accepts the input array "animals," and the function returns an accumlating "count" variable representing the amount of four legged animals in the array 
 
+### Flowchart
+![alt text](https://github.com/amdemw206-coder/Animal-Leg-Count-in-the-Forest/blob/main/Flowchart/AD311TIP1drawio.png)
